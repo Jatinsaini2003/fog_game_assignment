@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FOG Games — SDE Intern Assignment
 
 > Round 1 · Online Assessment · React + Vite
@@ -155,3 +156,6 @@ The gamification features measurably increased daily active usage during our use
 - Pure CSS — no UI framework
 - **Google Fonts**: Bebas Neue · Orbitron · DM Sans
 - **Web Audio API** for synthesised sound effects
+=======
+# fog_game_assignment
+>>>>>>> 6471e161279cabe99f938888c6e4112111973aaf
